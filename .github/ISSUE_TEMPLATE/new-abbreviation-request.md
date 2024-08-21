@@ -1,18 +1,18 @@
 ---
 name: New Abbreviation Request
 about: Suggest a new abbreviation to be added to the BDNS register
-title: ''
+title: 'Software Defined Network Fusion Node'
 labels: abbreviation request
 assignees: ''
 
 ---
 
 **device/asset description**
-Provide a description of the new device/asset
+Fusion Node
 
 **device/asset name**
-Provide a suggested name for the new device/asset
+FN
 
 **device/asset documentation**
 Provide link to a datasheet/manual/any supporting documentation
-[example document](https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf)
+(https://www.cisco.com/c/en/us/td/docs/solutions/CVD/Campus/cisco-sda-design-guide.html#VRFAwarePeerFusionDevices)
